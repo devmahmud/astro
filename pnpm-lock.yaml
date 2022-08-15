@@ -62,7 +62,7 @@ importers:
 
   examples/blog:
     specifiers:
-      '@astrojs/mdx': ^0.9.0
+      '@astrojs/mdx': ^0.10.0
       '@astrojs/rss': ^1.0.0
       '@astrojs/sitemap': ^1.0.0
       astro: ^1.0.5
@@ -321,7 +321,7 @@ importers:
 
   examples/with-mdx:
     specifiers:
-      '@astrojs/mdx': ^0.9.0
+      '@astrojs/mdx': ^0.10.0
       '@astrojs/preact': ^1.0.2
       astro: ^1.0.5
       preact: ^10.6.5
